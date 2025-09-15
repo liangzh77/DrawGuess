@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Tina游戏-你画我猜",
+  title: "AI游戏-你画我猜",
   description: "AI驱动的手机触屏绘画猜谜游戏",
 };
 
